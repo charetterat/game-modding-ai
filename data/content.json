@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-17",
   "meta": {
     "title": "Awesome Game Modding AI",
     "tagline": "Curated, link-verified AI tooling for modding, asset generation and reverse engineering.",
@@ -17,31 +17,50 @@
           "name": "universal-modder",
           "url": "https://github.com/rehan-remade/universal-modder",
           "what": "Skills, tools and MCP that let Claude Code mod almost any PC game: recon, reverse engineering, art, 3D and audio.",
-          "tags": ["modding", "llm", "mcp"]
+          "tags": [
+            "modding",
+            "llm",
+            "mcp"
+          ]
         },
         {
           "name": "game-changer",
           "url": "https://github.com/Fixed-Seed/game-changer",
           "what": "The AI game-modding toolkit from Fixed Seed: agent skills, the fsgc CLI, an MCP server and a knowledge base.",
-          "tags": ["modding", "llm", "mcp"]
+          "tags": [
+            "modding",
+            "llm",
+            "mcp"
+          ]
         },
         {
           "name": "modmixer",
           "url": "https://github.com/lebek/modmixer",
           "what": "Desktop app that decompiles and indexes your game, then gives a coding LLM the tools to build and test mods.",
-          "tags": ["modding", "llm", "desktop"]
+          "tags": [
+            "modding",
+            "llm",
+            "desktop"
+          ]
         },
         {
           "name": "Passthrough-Mod-Forge",
           "url": "https://github.com/TileTrackWarehouse/Passthrough-Mod-Forge",
           "what": "AI-powered forge for passthrough mods and dual-game runtimes, including AI asset generation.",
-          "tags": ["modding", "reverse-engineering"]
+          "tags": [
+            "modding",
+            "reverse-engineering"
+          ]
         },
         {
           "name": "re-engine-mcp",
           "url": "https://github.com/praydog/re-engine-mcp",
           "what": "MCP server that gives AI agents live access to any running RE Engine game through REFramework.",
-          "tags": ["mcp", "modding", "re-engine"]
+          "tags": [
+            "mcp",
+            "modding",
+            "re-engine"
+          ]
         }
       ]
     },
@@ -54,43 +73,67 @@
           "name": "3DCellForge",
           "url": "https://github.com/huangserva/3DCellForge",
           "what": "AI-powered interactive 3D model generation, inspection and presentation studio.",
-          "tags": ["3d", "generation"]
+          "tags": [
+            "3d",
+            "generation"
+          ]
         },
         {
           "name": "ComfyUI-BlenderAI-node",
           "url": "https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node",
           "what": "ComfyUI nodes inside Blender for AI model generation plus texture enhancement and generation.",
-          "tags": ["blender", "texture", "comfyui"]
+          "tags": [
+            "blender",
+            "texture",
+            "comfyui"
+          ]
         },
         {
           "name": "UltraGameStudio",
           "url": "https://github.com/wellingfeng/UltraGameStudio",
           "what": "AI coding agent for game development covering engine workflows, gameplay code and asset generation.",
-          "tags": ["game-dev", "assets"]
+          "tags": [
+            "game-dev",
+            "assets"
+          ]
         },
         {
           "name": "ai-game-studio",
           "url": "https://github.com/acatovic/ai-game-studio",
           "what": "AI generation of 2D game assets such as spritesheets.",
-          "tags": ["sprites", "2d"]
+          "tags": [
+            "sprites",
+            "2d"
+          ]
         },
         {
           "name": "FrameForge",
           "url": "https://github.com/Fantety/FrameForge",
           "what": "AI-powered asset generation tool for game developers, producing visual and audio assets.",
-          "tags": ["assets", "generation"]
+          "tags": [
+            "assets",
+            "generation"
+          ]
         },
         {
           "name": "SeqTex",
           "url": "https://github.com/VAST-AI-Research/SeqTex",
           "what": "End-to-end 3D texture generation using video diffusion priors, published at SIGGRAPH Asia 2025.",
-          "tags": ["3d", "texture", "diffusion"]
+          "tags": [
+            "3d",
+            "texture",
+            "diffusion"
+          ]
         },
         {
           "name": "OpenAITexGenSlateTool",
           "url": "https://github.com/aknkrstozkn/OpenAITexGenSlateTool",
           "what": "An OpenAI image-model based texture generation plugin for Unreal Engine 5.",
-          "tags": ["unreal", "texture", "plugin"]
+          "tags": [
+            "unreal",
+            "texture",
+            "plugin"
+          ]
         }
       ]
     },
@@ -103,37 +146,60 @@
           "name": "LLMUnity",
           "url": "https://github.com/undreamai/LLMUnity",
           "what": "Create characters in Unity driven by large language models.",
-          "tags": ["unity", "llm", "npc"]
+          "tags": [
+            "unity",
+            "llm",
+            "npc"
+          ]
         },
         {
           "name": "Interactive-LLM-Powered-NPCs",
           "url": "https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs",
           "what": "Project that transforms interaction with NPCs in any game using interactive LLMs.",
-          "tags": ["npc", "llm", "unity"]
+          "tags": [
+            "npc",
+            "llm",
+            "unity"
+          ]
         },
         {
           "name": "UnrealGenAISupport",
           "url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
           "what": "Unreal Engine plugin for LLM and GenAI models plus an MCP server, covering NPC AI, TTS and 3D generation.",
-          "tags": ["unreal", "llm", "tts"]
+          "tags": [
+            "unreal",
+            "llm",
+            "tts"
+          ]
         },
         {
           "name": "jubensha-ai",
           "url": "https://github.com/JianWang97/jubensha-ai",
           "what": "AI-powered murder mystery where every character is an AI, with script, TTS voice and image generation.",
-          "tags": ["tts", "agents"]
+          "tags": [
+            "tts",
+            "agents"
+          ]
         },
         {
           "name": "mc_aiplayer",
           "url": "https://github.com/zoyluoblue/mc_aiplayer",
           "what": "Server-side Fabric mod where an LLM drives a real Minecraft player to mine, build, farm and fight.",
-          "tags": ["minecraft", "llm", "fabric"]
+          "tags": [
+            "minecraft",
+            "llm",
+            "fabric"
+          ]
         },
         {
           "name": "chasm",
           "url": "https://github.com/chasmlol/chasm",
           "what": "Local-first, game-agnostic AI backend for agentic NPCs, providing LLM, cloned voices and memory.",
-          "tags": ["npc", "llm", "voice"]
+          "tags": [
+            "npc",
+            "llm",
+            "voice"
+          ]
         }
       ]
     },
@@ -146,25 +212,37 @@
           "name": "REDRIVER2",
           "url": "https://github.com/OpenDriver2/REDRIVER2",
           "what": "Driver 2 PlayStation game reverse engineering effort, now a playable source port.",
-          "tags": ["reverse-engineering", "decompilation"]
+          "tags": [
+            "reverse-engineering",
+            "decompilation"
+          ]
         },
         {
           "name": "sotn-decomp",
           "url": "https://github.com/Xeeynamo/sotn-decomp",
           "what": "Decompilation of Castlevania: Symphony of the Night for PSX, PSP and Saturn.",
-          "tags": ["decompilation", "psx"]
+          "tags": [
+            "decompilation",
+            "psx"
+          ]
         },
         {
           "name": "fallout2-re",
           "url": "https://github.com/alexbatalov/fallout2-re",
           "what": "Reverse engineered Fallout 2, from the original binaries back to readable source.",
-          "tags": ["reverse-engineering", "decompilation"]
+          "tags": [
+            "reverse-engineering",
+            "decompilation"
+          ]
         },
         {
           "name": "LibertyFlux",
           "url": "https://github.com/monstercameron/LibertyFlux",
           "what": "Grand Theft Auto IV's engine being rewritten in Rust one function at a time by AI agents.",
-          "tags": ["reverse-engineering", "rust"]
+          "tags": [
+            "reverse-engineering",
+            "rust"
+          ]
         }
       ]
     },
@@ -177,39 +255,91 @@
           "name": "GameStringer",
           "url": "https://github.com/rouges78/GameStringer",
           "what": "Desktop app that auto-detects a game's engine, extracts the text and translates it with local AI models.",
-          "tags": ["localization", "translation"]
+          "tags": [
+            "localization",
+            "translation"
+          ]
         },
         {
           "name": "Remis",
           "url": "https://github.com/Drlinglong/Remis",
           "what": "AI-powered desktop localization for game mods, including Paradox games and Surviving Mars: Relaunched.",
-          "tags": ["localization", "paradox"]
+          "tags": [
+            "localization",
+            "paradox"
+          ]
         },
         {
           "name": "UnityGameTranslator",
           "url": "https://github.com/djethino/UnityGameTranslator",
           "what": "Universal Unity game translation using local AI models, with community sharing of improvements.",
-          "tags": ["unity", "translation"]
+          "tags": [
+            "unity",
+            "translation"
+          ]
         },
         {
           "name": "NIM-Translator",
           "url": "https://github.com/YD525/NIM-Translator",
           "what": "Free open-source tool for Skyrim mod localization, supporting PEX, ESM and ESP files.",
-          "tags": ["skyrim", "localization"]
+          "tags": [
+            "skyrim",
+            "localization"
+          ]
         }
       ]
     }
   ],
   "verification_sources": [
-    {"name": "universal-modder", "url": "https://github.com/rehan-remade/universal-modder", "expected_token": "rehan-remade/universal-modder"},
-    {"name": "game-changer", "url": "https://github.com/Fixed-Seed/game-changer", "expected_token": "Fixed-Seed/game-changer"},
-    {"name": "re-engine-mcp", "url": "https://github.com/praydog/re-engine-mcp", "expected_token": "praydog/re-engine-mcp"},
-    {"name": "3DCellForge", "url": "https://github.com/huangserva/3DCellForge", "expected_token": "huangserva/3DCellForge"},
-    {"name": "ComfyUI-BlenderAI-node", "url": "https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node", "expected_token": "AIGODLIKE/ComfyUI-BlenderAI-node"},
-    {"name": "LLMUnity", "url": "https://github.com/undreamai/LLMUnity", "expected_token": "undreamai/LLMUnity"},
-    {"name": "UnrealGenAISupport", "url": "https://github.com/prajwalshettydev/UnrealGenAISupport", "expected_token": "prajwalshettydev/UnrealGenAISupport"},
-    {"name": "REDRIVER2", "url": "https://github.com/OpenDriver2/REDRIVER2", "expected_token": "OpenDriver2/REDRIVER2"},
-    {"name": "GameStringer", "url": "https://github.com/rouges78/GameStringer", "expected_token": "rouges78/GameStringer"},
-    {"name": "sotn-decomp", "url": "https://github.com/Xeeynamo/sotn-decomp", "expected_token": "Xeeynamo/sotn-decomp"}
+    {
+      "name": "universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "expected_token": "rehan-remade/universal-modder"
+    },
+    {
+      "name": "game-changer",
+      "url": "https://github.com/Fixed-Seed/game-changer",
+      "expected_token": "Fixed-Seed/game-changer"
+    },
+    {
+      "name": "re-engine-mcp",
+      "url": "https://github.com/praydog/re-engine-mcp",
+      "expected_token": "praydog/re-engine-mcp"
+    },
+    {
+      "name": "3DCellForge",
+      "url": "https://github.com/huangserva/3DCellForge",
+      "expected_token": "huangserva/3DCellForge"
+    },
+    {
+      "name": "ComfyUI-BlenderAI-node",
+      "url": "https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node",
+      "expected_token": "AIGODLIKE/ComfyUI-BlenderAI-node"
+    },
+    {
+      "name": "LLMUnity",
+      "url": "https://github.com/undreamai/LLMUnity",
+      "expected_token": "undreamai/LLMUnity"
+    },
+    {
+      "name": "UnrealGenAISupport",
+      "url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
+      "expected_token": "prajwalshettydev/UnrealGenAISupport"
+    },
+    {
+      "name": "REDRIVER2",
+      "url": "https://github.com/OpenDriver2/REDRIVER2",
+      "expected_token": "OpenDriver2/REDRIVER2"
+    },
+    {
+      "name": "GameStringer",
+      "url": "https://github.com/rouges78/GameStringer",
+      "expected_token": "rouges78/GameStringer"
+    },
+    {
+      "name": "sotn-decomp",
+      "url": "https://github.com/Xeeynamo/sotn-decomp",
+      "expected_token": "Xeeynamo/sotn-decomp"
+    }
   ]
 }
