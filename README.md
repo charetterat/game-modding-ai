@@ -1,4 +1,4 @@
-# Awesome Game Modding AI
+# Awesome Game Modding AI (updated 2026-10-17)
 
 > Curated, link-verified AI tooling for modding, asset generation and reverse engineering.
 
