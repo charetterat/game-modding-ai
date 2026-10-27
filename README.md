@@ -1,4 +1,4 @@
-# Awesome Game Modding AI (updated 2026-10-25)
+# Awesome Game Modding AI (updated 2026-10-27)
 
 > Curated, link-verified AI tooling for modding, asset generation and reverse engineering.
 
@@ -82,7 +82,7 @@ Tools that extract a game's or a mod's text and translate it, often using local 
 
 - **26** entries across **5** sections.
 - Compiled from public sources; every linked project carries its own license.
-- Last updated: **2026-10-17**.
+- Last updated: **2026-10-27**.
 - Data lives in `data/content.json` — this README is generated, do not edit by hand.
 
 ## License
